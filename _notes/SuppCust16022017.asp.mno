@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:DD_SUPPLIER_CODE;datatype:CHARacter,name:ACCOUNT_REF_NO;datatype:CHARacter,name:DELIVERY_ADDR1;datatype:CHARacter,name:TP94_TSTAMP;datatype:TIMESTAMP,name:CT;datatype:INTeger,name:DELIVERY_ADDR2;datatype:CHARacter" />
+	<infoitem key="UD_Recordset2" value="name:DD_SUPPLIER_CODE;datatype:CHARacter,name:ACCOUNT_REF_NO;datatype:CHARacter,name:DELIVERY_ADDR1;datatype:CHARacter,name:TP94_TSTAMP;datatype:TIMESTAMP,name:CT;datatype:INTeger,name:DELIVERY_ADDR2;datatype:CHARacter" />
+</info>

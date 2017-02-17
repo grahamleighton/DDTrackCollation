@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:QTY;datatype:FLOAT,name:DATE_OF_ORDER;datatype:DATE,name:COMP_NAME;datatype:CHARacter,name:DD_SUPPLIER_CODE;datatype:CHARacter,name:ACCOUNT_REF_NO;datatype:CHARacter,name:DELIVERY_ADDR1;datatype:CHARacter,name:DELIVERY_ADDR2;datatype:CHARacter,name:DELIVERY_ADDR3;datatype:CHARacter,name:DELIVERY_ADDR4;datatype:CHARacter,name:DELIVERY_ADDR5;datatype:CHARacter,name:DELIVERY_ADDR6;datatype:CHARacter,name:DELIVERY_PCODE;datatype:CHARacter,name:DD_BARCODE_NO;datatype:CHARacter,name:INVOICE_NO;datatype:INTeger,name:CATALOGUE_NUMBER;datatype:CHARacter,name:OPTION_NUMBER;datatype:CHARacter,name:ITEM_DESCRIPTION;datatype:CHARacter,name:WT;datatype:FLOAT,name:PC;datatype:FLOAT,name:DD_PARENT_NO;datatype:CHARacter,name:OPTION_DESCRIPTION;datatype:CHARacter,name:C_PC;datatype:FLOAT,name:C_WT;datatype:FLOAT,name:ORDER_KEY;datatype:CHARacter" />
+</info>
